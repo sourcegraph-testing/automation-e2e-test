@@ -1,0 +1,2 @@
+# automation-e2e-repo
+DO NOT CHANGE CONTENT IN THIS REPO, IT WILL BREAK E2E
